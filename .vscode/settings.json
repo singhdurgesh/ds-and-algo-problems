@@ -1,0 +1,26 @@
+{
+  "files.associations": {
+    "__locale": "cpp",
+    "__string": "cpp",
+    "regex": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "__split_buffer": "cpp",
+    "deque": "cpp",
+    "list": "cpp",
+    "vector": "cpp"
+  },
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.executorMap": {
+      "javascript": "node",
+      "php": "C:\\php\\php.exe",
+      "python": "python",
+      "perl": "perl",
+      "ruby": "C:\\Ruby23-x64\\bin\\ruby.exe",
+      "go": "go run",
+      "html": "\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\"",
+      "java": "cd $dir && javac $fileName && java $fileNameWithoutExt",
+      "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+      "cpp": "cd $dir && g++-12 $fileName -o app && cat input.txt | ./app > output.txt"
+  }
+}
