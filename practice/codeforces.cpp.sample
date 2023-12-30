@@ -1,6 +1,6 @@
-// Problem Link: https://codeforces.com/contest/271/problem/D
-// Problem: 166D - Good Substrings Codeforces
-// Algorithm: String Hashing
+// Problem Link: <Problem Link>
+// <Problem Name>
+// <Algorithm>
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -13,6 +13,7 @@ using namespace std;
 const int N = 1000001;
 
 int main(){
-
+   string s;
+   cin>>s;
    return 0;
 }
