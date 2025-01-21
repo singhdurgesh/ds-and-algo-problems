@@ -1,4 +1,5 @@
 /practice/app
+.vscode/**
 /practice/*.txt
 /practice/*.cpp
 .vscode/settings.json
